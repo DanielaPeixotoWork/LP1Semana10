@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayerManagerMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bac277032047a21d66a2a074b51e4129c1f4c00d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eba9e42b6382dc06482d1a2cd366264688b09eca")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayerManagerMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayerManagerMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
