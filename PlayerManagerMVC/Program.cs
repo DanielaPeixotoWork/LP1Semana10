@@ -1,12 +1,12 @@
-﻿using System;
-
-namespace PlayerManagerMVC
+﻿namespace PlayerManagerMVC
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            ConsoleView view = new ConsoleView();
+            PlayerController controller = new PlayerController(view);
+            controller.Run();
         }
     }
 }
