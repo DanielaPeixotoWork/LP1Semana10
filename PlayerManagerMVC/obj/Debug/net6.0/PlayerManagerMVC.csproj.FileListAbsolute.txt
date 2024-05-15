@@ -1,0 +1,15 @@
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.AssemblyInfoInputs.cache
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.AssemblyInfo.cs
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.csproj.CoreCompileInputs.cache
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.sourcelink.json
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\bin\Debug\net6.0\PlayerManagerMVC.exe
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\bin\Debug\net6.0\PlayerManagerMVC.deps.json
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\bin\Debug\net6.0\PlayerManagerMVC.runtimeconfig.json
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\bin\Debug\net6.0\PlayerManagerMVC.dll
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\bin\Debug\net6.0\PlayerManagerMVC.pdb
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.dll
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\refint\PlayerManagerMVC.dll
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.pdb
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\PlayerManagerMVC.genruntimeconfig.cache
+C:\Users\Legion\LP1Semana10\PlayerManagerMVC\obj\Debug\net6.0\ref\PlayerManagerMVC.dll
